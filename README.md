@@ -19,11 +19,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 **For Desktop** :computer:
 
-![Captura de tela - Desktop](./assets/images/)
+![Screenshot - Desktop](./assets/images/)
 
 **For Mobile** :iphone:
 
-![Captura de tela - Mobile](./assets/images/)
+![Screenshot - Mobile](./assets/images/)
 
 ### Links
 
